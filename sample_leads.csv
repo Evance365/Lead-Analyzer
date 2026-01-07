@@ -1,0 +1,369 @@
+lead_id,name,email,phone,source,status,lead_value,date_added
+1,Jane Doe,janedoe26@email.com,,Website,New,,2024-02-17
+2,Alice Williams,alicewilliams239@email.com,555-9279,Cold Call,Lost,7723,2024-10-28
+3,Michael Brown,michaelbrown829@email.com,555-1106,Social Media,Converted,5594,2024-06-21
+4,Jane Doe,janedoe95@email.com,555-7224,Cold Call,New,15554,2024-02-10
+5,Chris Anderson,chrisanderson301@email.com,,Social Media,Contacted,9982,2024-02-21
+6,David Wilson,davidwilson285@email.com,555-8428,Walk-in,Contacted,9248,2024-11-27
+7,Jane Doe,janedoe624@email.com,555-3803,Social Media,Converted,18750,2024-12-16
+8,Sarah Davis,sarahdavis864@email.com,555-1916,Social Media,Converted,2668,2024-10-17
+9,Sarah Davis,sarahdavis218@email.com,555-9179,Social Media,Converted,5075,2024-10-14
+10,Chris Anderson,chrisanderson270@email.com,555-8019,Website,Contacted,,2024-02-26
+11,Bob Johnson,bobjohnson643@email.com,,Email Campaign,Lost,15837,2024-05-08
+12,Chris Anderson,chrisanderson882@email.com,555-1188,Website,Converted,11646,2024-05-30
+13,David Wilson,,555-8433,Social Media,Converted,16903,2024-09-16
+14,Jane Doe,janedoe892@email.com,555-5889,Email Campaign,Converted,5793,2024-09-28
+15,John Smith,johnsmith614@email.com,555-6310,Website,Converted,8346,2024-05-03
+16,Linda Thomas,lindathomas970@email.com,,Email Campaign,Contacted,4707,2024-03-25
+17,Michael Brown,michaelbrown541@email.com,555-7932,Walk-in,Contacted,,2024-11-28
+18,Sarah Davis,sarahdavis449@email.com,,Email Campaign,New,19777,2024-04-22
+19,John Smith,johnsmith73@email.com,555-1964,Walk-in,New,,2024-09-05
+20,Alice Williams,alicewilliams553@email.com,555-3167,Social Media,Contacted,15998,2024-02-18
+21,Jane Doe,janedoe675@email.com,555-8062,Walk-in,New,,2024-06-22
+22,Jane Doe,janedoe255@email.com,555-4139,Social Media,Converted,15659,2024-02-08
+23,Emily Taylor,,555-2604,Social Media,New,3556,2024-03-26
+24,David Wilson,davidwilson498@email.com,,Cold Call,Lost,570,2024-05-15
+25,Emily Taylor,emilytaylor293@email.com,555-7930,Social Media,Lost,5572,2024-05-31
+26,Alice Williams,alicewilliams992@email.com,555-1958,Email Campaign,New,2143,2024-09-28
+27,Bob Johnson,bobjohnson59@email.com,555-9320,Email Campaign,Contacted,,2024-05-06
+28,Linda Thomas,lindathomas609@email.com,555-1651,Social Media,Converted,9044,2024-12-08
+29,Sarah Davis,sarahdavis245@email.com,555-5351,Website,Converted,2877,2024-08-22
+30,Linda Thomas,,555-2638,Referral,Converted,4840,2024-02-05
+31,Alice Williams,alicewilliams379@email.com,555-5669,Walk-in,New,,2024-02-23
+32,Bob Johnson,bobjohnson271@email.com,555-2891,Walk-in,Converted,7401,2024-06-24
+33,Alice Williams,alicewilliams704@email.com,555-5325,Referral,New,3524,2024-01-23
+34,John Smith,johnsmith342@email.com,555-3143,Website,Lost,18879,2024-02-27
+35,Jane Doe,janedoe968@email.com,555-3442,Referral,Contacted,,2024-07-05
+36,John Smith,johnsmith921@email.com,,Social Media,Lost,5564,2024-03-24
+37,Bob Johnson,,555-7755,Walk-in,Converted,13991,2024-05-07
+38,Michael Brown,michaelbrown164@email.com,555-2771,Social Media,Contacted,,2024-04-24
+39,John Smith,johnsmith676@email.com,,Walk-in,Converted,12006,2024-09-17
+40,David Wilson,invalid-email,555-9785,Email Campaign,Converted,6351,2024-05-15
+41,John Smith,johnsmith112@email.com,555-8119,Social Media,New,13122,2024-05-10
+42,John Smith,,555-8144,Walk-in,Contacted,,2024-06-18
+43,Linda Thomas,lindathomas322@email.com,555-3041,Cold Call,Lost,11188,2024-12-22
+44,Michael Brown,michaelbrown568@email.com,555-3085,Email Campaign,Contacted,,2024-01-01
+45,Michael Brown,michaelbrown294@email.com,555-4443,Cold Call,Lost,14976,2024-12-11
+46,Alice Williams,alicewilliams524@email.com,555-8752,Walk-in,New,9799,2024-11-13
+47,Sarah Davis,sarahdavis96@email.com,555-4848,Cold Call,New,,2024-11-08
+48,Jane Doe,janedoe467@email.com,555-7790,Cold Call,Lost,16699,2024-05-04
+49,Bob Johnson,bobjohnson672@email.com,555-1090,Social Media,Lost,7670,2024-12-22
+50,Chris Anderson,chrisanderson476@email.com,555-1822,Email Campaign,Contacted,15725,2024-10-31
+51,Sarah Davis,sarahdavis973@email.com,555-8251,Walk-in,Lost,5715,2024-08-31
+52,Emily Taylor,emilytaylor266@email.com,555-5050,Referral,Lost,8339,2024-08-13
+53,Jane Doe,janedoe731@email.com,555-5681,Cold Call,New,,2024-12-21
+54,Bob Johnson,,555-4505,Website,Lost,14124,2024-04-15
+55,David Wilson,davidwilson399@email.com,555-1320,Cold Call,New,,2024-08-02
+56,Chris Anderson,chrisanderson766@email.com,555-9947,Cold Call,Converted,14781,2024-01-15
+57,David Wilson,davidwilson345@email.com,555-7624,Walk-in,New,13411,2024-01-14
+58,Jane Doe,janedoe659@email.com,,Social Media,Lost,11226,2024-08-20
+59,Sarah Davis,sarahdavis346@email.com,555-7211,Email Campaign,New,,2024-01-27
+60,Sarah Davis,sarahdavis230@email.com,555-2124,Email Campaign,Contacted,7032,2024-03-19
+61,Alice Williams,alicewilliams130@email.com,555-8758,Social Media,Converted,12587,2024-11-06
+62,Linda Thomas,lindathomas987@email.com,555-2876,Cold Call,New,10722,2024-07-22
+63,Alice Williams,alicewilliams78@email.com,555-4978,Referral,New,19044,2024-09-29
+64,David Wilson,,555-7071,Website,New,14264,2024-08-09
+65,Sarah Davis,sarahdavis651@email.com,555-8532,Cold Call,Converted,18134,2024-08-26
+66,David Wilson,davidwilson846@email.com,555-5397,Social Media,Converted,15271,2024-08-25
+67,Linda Thomas,lindathomas625@email.com,555-7209,Referral,Lost,7450,2024-05-12
+68,Sarah Davis,sarahdavis287@email.com,555-5526,Social Media,Contacted,,2024-12-19
+69,Emily Taylor,invalid-email,555-9041,Referral,Lost,8472,2024-12-05
+70,Linda Thomas,lindathomas378@email.com,555-8753,Walk-in,Converted,12028,2024-08-20
+71,Michael Brown,michaelbrown314@email.com,555-5118,Cold Call,Contacted,,2024-05-21
+72,Linda Thomas,lindathomas779@email.com,555-9595,Referral,Converted,7954,2024-04-01
+73,Michael Brown,michaelbrown15@email.com,,Walk-in,Converted,4637,2024-09-08
+74,Jane Doe,janedoe894@email.com,555-1200,Cold Call,Contacted,,2024-02-28
+75,Jane Doe,,555-9056,Email Campaign,New,,2024-06-04
+76,Jane Doe,janedoe255@email.com,555-2940,Cold Call,Contacted,,2024-06-01
+77,Linda Thomas,lindathomas440@email.com,555-6003,Referral,New,7308,2024-12-04
+78,Jane Doe,janedoe161@email.com,,Cold Call,Lost,19958,2024-05-29
+79,John Smith,johnsmith238@email.com,555-5720,Walk-in,Contacted,9168,2024-10-28
+80,Alice Williams,alicewilliams436@email.com,555-2880,Referral,Contacted,,2024-10-31
+81,Linda Thomas,lindathomas944@email.com,555-5728,Email Campaign,Lost,9420,2024-10-03
+82,Emily Taylor,emilytaylor449@email.com,555-2317,Website,Converted,1347,2024-04-27
+83,Linda Thomas,lindathomas602@email.com,555-1339,Walk-in,New,,2024-08-14
+84,Michael Brown,michaelbrown186@email.com,,Referral,Converted,13880,2024-06-13
+85,Jane Doe,janedoe879@email.com,555-3634,Website,Lost,18525,2024-08-20
+86,Jane Doe,janedoe323@email.com,555-5135,Website,New,,2024-04-06
+87,Chris Anderson,chrisanderson371@email.com,555-9167,Walk-in,Contacted,,2024-09-05
+88,Jane Doe,janedoe30@email.com,,Social Media,Lost,3554,2024-02-28
+89,Emily Taylor,emilytaylor970@email.com,555-2924,Walk-in,Converted,17174,2024-05-19
+90,David Wilson,davidwilson855@email.com,555-8905,Email Campaign,Lost,6745,2024-09-17
+91,Bob Johnson,bobjohnson885@email.com,555-2143,Referral,Converted,584,2024-06-01
+92,Linda Thomas,lindathomas594@email.com,555-9022,Email Campaign,Converted,18585,2024-07-12
+93,Emily Taylor,emilytaylor956@email.com,555-6272,Cold Call,Lost,8153,2024-01-23
+94,Sarah Davis,sarahdavis763@email.com,555-8749,Social Media,Contacted,16730,2024-09-14
+95,Linda Thomas,lindathomas340@email.com,555-2644,Walk-in,Lost,1002,2024-03-14
+96,David Wilson,,555-3529,Email Campaign,Converted,11593,2024-12-20
+97,David Wilson,davidwilson666@email.com,555-2315,Walk-in,Lost,10876,2024-09-06
+98,Chris Anderson,chrisanderson37@email.com,555-2121,Website,Contacted,,2024-11-20
+99,Jane Doe,janedoe455@email.com,,Cold Call,New,,2024-03-15
+100,Alice Williams,alicewilliams544@email.com,555-7751,Social Media,New,13035,2024-09-11
+101,Linda Thomas,lindathomas147@email.com,555-4804,Walk-in,New,15745,2024-10-06
+102,Bob Johnson,bobjohnson76@email.com,555-8237,Cold Call,Lost,8695,2024-06-03
+103,Alice Williams,alicewilliams394@email.com,555-8916,Website,Converted,10174,2024-12-03
+104,David Wilson,davidwilson282@email.com,555-1132,Referral,New,16776,2024-04-27
+105,Linda Thomas,lindathomas822@email.com,555-6772,Walk-in,Contacted,3683,2024-01-21
+106,Michael Brown,,555-8222,Referral,Contacted,3453,2024-07-31
+107,Bob Johnson,bobjohnson206@email.com,555-3165,Referral,Converted,5891,2024-09-03
+108,Michael Brown,michaelbrown765@email.com,,Email Campaign,Contacted,13522,2024-07-06
+109,Jane Doe,,555-7464,Walk-in,Lost,12577,2024-12-10
+110,Michael Brown,michaelbrown599@email.com,,Email Campaign,Contacted,,2024-06-16
+111,Linda Thomas,lindathomas227@email.com,555-2035,Social Media,Lost,4323,2024-01-24
+112,John Smith,johnsmith312@email.com,555-9071,Referral,Lost,15364,2024-12-09
+113,Chris Anderson,chrisanderson430@email.com,555-3531,Website,Lost,9666,2024-12-19
+114,Sarah Davis,sarahdavis223@email.com,555-8264,Walk-in,Converted,18341,2024-07-02
+115,John Smith,johnsmith408@email.com,555-5520,Walk-in,Lost,3503,2024-04-18
+116,Linda Thomas,,555-1349,Email Campaign,Contacted,,2024-04-16
+117,Linda Thomas,lindathomas222@email.com,555-4817,Social Media,New,9585,2024-03-07
+118,Chris Anderson,chrisanderson257@email.com,555-3858,Email Campaign,Converted,8296,2024-06-14
+119,John Smith,,555-5347,Referral,New,,2024-09-19
+120,Linda Thomas,lindathomas112@email.com,,Walk-in,Converted,15509,2024-01-16
+121,John Smith,johnsmith491@email.com,555-7580,Website,Lost,2908,2024-06-13
+122,Linda Thomas,lindathomas152@email.com,555-2076,Email Campaign,Converted,12981,2024-09-28
+123,Michael Brown,michaelbrown465@email.com,555-9282,Social Media,Contacted,,2024-07-30
+124,Sarah Davis,sarahdavis848@email.com,555-8430,Referral,Converted,8852,2024-03-19
+125,Emily Taylor,emilytaylor69@email.com,,Email Campaign,Converted,4763,2024-01-31
+126,Linda Thomas,lindathomas980@email.com,555-6400,Referral,Lost,2185,2024-11-03
+127,Michael Brown,michaelbrown361@email.com,555-2697,Email Campaign,Contacted,,2024-07-07
+128,Jane Doe,janedoe781@email.com,555-5564,Referral,New,,2024-12-25
+129,Michael Brown,michaelbrown944@email.com,555-6567,Social Media,Lost,2780,2024-11-20
+130,John Smith,johnsmith94@email.com,555-9691,Walk-in,Converted,10711,2024-06-15
+131,Linda Thomas,lindathomas611@email.com,555-2391,Walk-in,New,,2024-08-05
+132,Emily Taylor,emilytaylor622@email.com,555-8242,Website,Converted,14587,2024-05-25
+133,Linda Thomas,lindathomas499@email.com,555-9633,Social Media,New,,2024-03-11
+134,Michael Brown,michaelbrown297@email.com,555-6375,Social Media,Contacted,12958,2024-09-13
+135,Chris Anderson,,555-6802,Website,New,,2024-06-09
+136,Linda Thomas,lindathomas440@email.com,,Email Campaign,New,,2024-08-23
+137,Sarah Davis,sarahdavis91@email.com,555-8155,Walk-in,New,13468,2024-06-22
+138,Alice Williams,,555-3754,Walk-in,Contacted,,2024-03-16
+139,Alice Williams,alicewilliams106@email.com,555-3399,Walk-in,New,6304,2024-09-09
+140,Emily Taylor,emilytaylor773@email.com,555-8354,Social Media,Converted,10859,2024-08-13
+141,Jane Doe,janedoe481@email.com,555-8245,Website,Converted,17124,2024-06-07
+142,Emily Taylor,,555-1616,Email Campaign,New,3458,2024-07-15
+143,Emily Taylor,emilytaylor595@email.com,555-1672,Email Campaign,Converted,16085,2024-03-18
+144,John Smith,johnsmith462@email.com,555-2695,Website,New,17033,2024-05-06
+145,Emily Taylor,emilytaylor450@email.com,555-9586,Cold Call,Converted,13194,2024-06-22
+146,Linda Thomas,,,Referral,Lost,9810,2024-12-02
+147,Linda Thomas,lindathomas895@email.com,555-3463,Walk-in,Converted,10665,2024-12-23
+148,David Wilson,davidwilson133@email.com,555-2388,Walk-in,Contacted,,2024-08-04
+149,Chris Anderson,chrisanderson371@email.com,555-1298,Social Media,Lost,6791,2024-03-11
+150,Bob Johnson,bobjohnson80@email.com,555-5846,Email Campaign,New,11535,2024-03-08
+151,Linda Thomas,lindathomas386@email.com,555-3527,Referral,Contacted,,2024-12-12
+152,Alice Williams,alicewilliams993@email.com,555-8277,Cold Call,Contacted,,2024-04-09
+153,Sarah Davis,sarahdavis695@email.com,555-8218,Social Media,Lost,5810,2024-11-05
+154,Bob Johnson,,555-5096,Website,Converted,18671,2024-12-30
+155,Chris Anderson,chrisanderson872@email.com,555-3042,Social Media,Contacted,,2024-08-18
+156,Sarah Davis,sarahdavis953@email.com,555-1436,Referral,Lost,3174,2024-04-24
+157,John Smith,johnsmith327@email.com,555-2623,Cold Call,Contacted,,2024-12-22
+158,Bob Johnson,invalid-email,,Social Media,Converted,7566,2024-10-07
+159,Linda Thomas,lindathomas541@email.com,555-7934,Email Campaign,New,,2024-08-22
+160,Jane Doe,invalid-email,555-9189,Website,Contacted,,2024-11-10
+161,Sarah Davis,sarahdavis247@email.com,555-7825,Email Campaign,Converted,2717,2024-10-05
+162,Chris Anderson,chrisanderson806@email.com,555-9316,Referral,Lost,12732,2024-01-09
+163,Sarah Davis,sarahdavis808@email.com,555-2106,Website,Converted,4871,2024-06-29
+164,Chris Anderson,chrisanderson347@email.com,555-3868,Social Media,Lost,6472,2024-02-02
+165,Emily Taylor,emilytaylor38@email.com,555-5807,Email Campaign,Converted,10660,2024-07-22
+166,Chris Anderson,,555-5150,Website,Converted,12197,2024-12-01
+167,Sarah Davis,sarahdavis280@email.com,555-3039,Referral,Lost,13169,2024-04-05
+168,Emily Taylor,emilytaylor709@email.com,555-9151,Email Campaign,New,,2024-04-02
+169,Chris Anderson,chrisanderson301@email.com,555-6262,Social Media,Lost,14462,2024-12-19
+170,Emily Taylor,,555-8325,Referral,Converted,14752,2024-11-23
+171,John Smith,johnsmith77@email.com,555-7655,Walk-in,New,5178,2024-08-12
+172,John Smith,johnsmith130@email.com,555-2101,Referral,New,5527,2024-07-09
+173,Emily Taylor,emilytaylor782@email.com,555-2259,Website,Converted,8679,2024-01-14
+174,Bob Johnson,bobjohnson512@email.com,555-9482,Social Media,Converted,15123,2024-11-09
+175,Michael Brown,michaelbrown711@email.com,,Walk-in,Contacted,15085,2024-06-12
+176,Sarah Davis,sarahdavis727@email.com,555-2063,Email Campaign,Contacted,6204,2024-04-24
+177,Jane Doe,janedoe206@email.com,555-3275,Email Campaign,Converted,15815,2024-03-07
+178,Linda Thomas,,555-2412,Cold Call,Lost,17725,2024-07-28
+179,Linda Thomas,lindathomas76@email.com,555-3053,Email Campaign,Converted,4705,2024-11-23
+180,Linda Thomas,lindathomas187@email.com,,Social Media,New,,2024-03-23
+181,Sarah Davis,sarahdavis958@email.com,555-4694,Email Campaign,New,,2024-05-20
+182,Bob Johnson,bobjohnson641@email.com,555-5961,Walk-in,Contacted,6109,2024-11-05
+183,Sarah Davis,invalid-email,,Email Campaign,Converted,7407,2024-08-01
+184,Linda Thomas,lindathomas655@email.com,555-1496,Social Media,Converted,16325,2024-12-16
+185,David Wilson,,,Cold Call,Lost,14119,2024-08-25
+186,Alice Williams,alicewilliams349@email.com,555-3353,Social Media,Converted,13565,2024-07-08
+187,Chris Anderson,chrisanderson576@email.com,555-2739,Referral,Contacted,,2024-07-15
+188,Linda Thomas,lindathomas429@email.com,555-5067,Social Media,Converted,6720,2024-09-12
+189,Chris Anderson,chrisanderson479@email.com,,Cold Call,Lost,17062,2024-05-03
+190,Alice Williams,,555-6781,Email Campaign,Lost,9863,2024-01-05
+191,Jane Doe,janedoe442@email.com,555-3194,Cold Call,Converted,1982,2024-01-27
+192,Linda Thomas,lindathomas576@email.com,555-4189,Referral,Lost,18517,2024-11-15
+193,Linda Thomas,lindathomas122@email.com,555-3108,Referral,Converted,18779,2024-03-14
+194,Alice Williams,alicewilliams617@email.com,,Email Campaign,Converted,16023,2024-08-21
+195,Bob Johnson,bobjohnson621@email.com,555-9446,Email Campaign,Lost,10305,2024-06-21
+196,Chris Anderson,chrisanderson849@email.com,555-9351,Website,New,,2024-08-01
+197,Linda Thomas,lindathomas316@email.com,555-1436,Social Media,Contacted,2182,2024-09-25
+198,Linda Thomas,lindathomas794@email.com,,Referral,New,,2024-08-02
+199,Bob Johnson,bobjohnson423@email.com,555-4340,Email Campaign,New,5024,2024-06-15
+200,Emily Taylor,emilytaylor539@email.com,555-7173,Referral,Converted,18400,2024-12-12
+201,Michael Brown,michaelbrown625@email.com,555-8932,Walk-in,Contacted,10252,2024-04-16
+202,Emily Taylor,emilytaylor325@email.com,555-8861,Website,Converted,9930,2024-10-20
+203,Chris Anderson,chrisanderson389@email.com,555-7464,Referral,Converted,1878,2024-12-31
+204,Jane Doe,janedoe355@email.com,555-8247,Walk-in,Converted,18916,2024-05-19
+205,Bob Johnson,bobjohnson112@email.com,555-4920,Referral,Contacted,,2024-08-29
+206,Jane Doe,,555-3252,Cold Call,Contacted,13833,2024-09-01
+207,Alice Williams,alicewilliams775@email.com,555-5706,Walk-in,New,,2024-01-20
+208,Bob Johnson,bobjohnson428@email.com,555-3880,Walk-in,Lost,6605,2024-05-28
+209,John Smith,johnsmith10@email.com,555-5888,Walk-in,Converted,15388,2024-10-05
+210,Chris Anderson,chrisanderson506@email.com,555-3198,Cold Call,New,,2024-11-27
+211,Michael Brown,,555-4050,Walk-in,Converted,19105,2024-04-08
+212,Bob Johnson,bobjohnson626@email.com,,Cold Call,New,6554,2024-06-14
+213,Alice Williams,alicewilliams7@email.com,555-5272,Email Campaign,Converted,10394,2024-10-20
+214,John Smith,johnsmith268@email.com,,Cold Call,Converted,5733,2024-12-17
+215,Chris Anderson,chrisanderson946@email.com,555-6095,Social Media,Converted,7736,2024-03-09
+216,Emily Taylor,emilytaylor157@email.com,555-8454,Walk-in,Lost,18113,2024-04-21
+217,Alice Williams,alicewilliams697@email.com,555-2341,Email Campaign,New,2523,2024-04-13
+218,Linda Thomas,lindathomas550@email.com,555-3455,Email Campaign,Contacted,,2024-08-16
+219,John Smith,johnsmith465@email.com,,Walk-in,Lost,10598,2024-01-12
+220,David Wilson,davidwilson261@email.com,,Email Campaign,Converted,2589,2024-01-31
+221,Jane Doe,,555-8734,Cold Call,Contacted,,2024-08-17
+222,David Wilson,davidwilson385@email.com,555-2314,Social Media,Converted,4387,2024-10-02
+223,David Wilson,davidwilson542@email.com,,Walk-in,New,,2024-10-05
+224,David Wilson,davidwilson545@email.com,555-7214,Walk-in,Converted,6676,2024-02-27
+225,John Smith,johnsmith829@email.com,555-7868,Email Campaign,Contacted,,2024-01-18
+226,Emily Taylor,emilytaylor613@email.com,555-1797,Referral,Contacted,,2024-04-29
+227,Linda Thomas,lindathomas327@email.com,555-6253,Website,Contacted,,2024-10-12
+228,Linda Thomas,lindathomas901@email.com,555-3869,Email Campaign,Converted,12989,2024-06-12
+229,David Wilson,davidwilson419@email.com,555-3444,Walk-in,Contacted,,2024-03-14
+230,Emily Taylor,emilytaylor937@email.com,555-1944,Social Media,Contacted,,2024-06-18
+231,Jane Doe,janedoe945@email.com,555-8369,Walk-in,Contacted,,2024-11-05
+232,Linda Thomas,lindathomas41@email.com,555-2192,Referral,Contacted,,2024-06-04
+233,John Smith,johnsmith217@email.com,555-4113,Walk-in,Lost,8449,2024-11-05
+234,Alice Williams,alicewilliams407@email.com,555-4921,Referral,Converted,10606,2024-07-03
+235,Chris Anderson,chrisanderson904@email.com,555-9147,Referral,Converted,7156,2024-06-09
+236,David Wilson,invalid-email,555-4625,Social Media,Lost,10172,2024-04-10
+237,Sarah Davis,sarahdavis236@email.com,555-7223,Cold Call,Converted,8932,2024-11-24
+238,Emily Taylor,emilytaylor472@email.com,555-3756,Email Campaign,Lost,6530,2024-11-24
+239,John Smith,johnsmith537@email.com,555-1554,Walk-in,New,,2024-04-28
+240,Jane Doe,,555-3474,Email Campaign,Converted,2480,2024-11-22
+241,Linda Thomas,invalid-email,555-8916,Website,Lost,888,2024-09-28
+242,Michael Brown,,555-5697,Website,Lost,6374,2024-02-19
+243,Chris Anderson,chrisanderson153@email.com,555-4948,Website,Converted,13505,2024-07-10
+244,David Wilson,davidwilson471@email.com,555-4984,Cold Call,New,,2024-07-12
+245,Chris Anderson,chrisanderson488@email.com,,Email Campaign,Lost,11355,2024-02-18
+246,Chris Anderson,chrisanderson942@email.com,555-1697,Website,Lost,9383,2024-02-08
+247,Michael Brown,michaelbrown921@email.com,555-9897,Social Media,Converted,1013,2024-10-27
+248,Bob Johnson,bobjohnson771@email.com,555-7525,Referral,Lost,18213,2024-07-15
+249,Bob Johnson,bobjohnson810@email.com,,Website,Lost,8106,2024-06-23
+250,Linda Thomas,lindathomas788@email.com,555-7499,Social Media,Lost,16576,2024-07-01
+251,Chris Anderson,chrisanderson964@email.com,555-7150,Walk-in,New,10178,2024-02-07
+252,Jane Doe,janedoe275@email.com,555-3526,Referral,Lost,10876,2024-02-24
+253,Jane Doe,janedoe6@email.com,,Email Campaign,New,,2024-10-11
+254,Chris Anderson,,555-2692,Website,New,11130,2024-05-29
+255,David Wilson,davidwilson398@email.com,555-2387,Walk-in,Contacted,19241,2024-07-13
+256,Bob Johnson,bobjohnson143@email.com,,Cold Call,Lost,9542,2024-06-02
+257,Emily Taylor,emilytaylor802@email.com,555-2260,Email Campaign,Lost,19957,2024-04-10
+258,Emily Taylor,emilytaylor110@email.com,555-3219,Cold Call,Lost,11298,2024-06-20
+259,David Wilson,davidwilson836@email.com,555-3230,Social Media,Lost,10795,2024-07-22
+260,Sarah Davis,sarahdavis299@email.com,555-9044,Referral,Converted,13375,2024-02-28
+261,Linda Thomas,lindathomas205@email.com,,Cold Call,Lost,7369,2024-05-29
+262,Jane Doe,janedoe839@email.com,555-7703,Walk-in,Converted,5550,2024-08-04
+263,David Wilson,davidwilson76@email.com,555-8357,Website,Lost,18314,2024-07-03
+264,Chris Anderson,chrisanderson609@email.com,555-2392,Walk-in,Contacted,1951,2024-12-12
+265,David Wilson,davidwilson991@email.com,,Email Campaign,Converted,7774,2024-09-22
+266,Chris Anderson,chrisanderson595@email.com,555-4621,Cold Call,Contacted,11803,2024-02-23
+267,Michael Brown,michaelbrown426@email.com,555-2406,Cold Call,Converted,11741,2024-04-15
+268,Chris Anderson,chrisanderson495@email.com,555-6706,Referral,Converted,2701,2024-01-23
+269,Jane Doe,janedoe24@email.com,555-6620,Social Media,Contacted,,2024-06-18
+270,Chris Anderson,chrisanderson437@email.com,555-8570,Website,Lost,13462,2024-11-10
+271,Alice Williams,alicewilliams461@email.com,555-8037,Email Campaign,New,,2024-04-05
+272,Sarah Davis,sarahdavis334@email.com,555-4228,Email Campaign,Converted,13234,2024-07-19
+273,Linda Thomas,lindathomas117@email.com,555-6700,Website,Converted,19838,2024-12-10
+274,Bob Johnson,bobjohnson321@email.com,555-2931,Email Campaign,Contacted,,2024-03-11
+275,Linda Thomas,lindathomas393@email.com,555-7931,Referral,Contacted,,2024-03-12
+276,Bob Johnson,bobjohnson323@email.com,555-8389,Social Media,Lost,4973,2024-07-15
+277,Chris Anderson,chrisanderson518@email.com,555-9109,Social Media,Lost,16513,2024-02-12
+278,Linda Thomas,lindathomas32@email.com,555-4613,Cold Call,Contacted,15485,2024-10-08
+279,Chris Anderson,chrisanderson116@email.com,555-2871,Cold Call,New,14962,2024-02-22
+280,Alice Williams,alicewilliams305@email.com,555-1528,Social Media,Lost,4346,2024-04-17
+281,Linda Thomas,lindathomas706@email.com,555-6744,Website,Contacted,7270,2024-10-18
+282,Sarah Davis,sarahdavis546@email.com,555-5605,Email Campaign,Converted,9980,2024-05-16
+283,Chris Anderson,chrisanderson922@email.com,555-2560,Social Media,New,9587,2024-12-25
+284,Bob Johnson,bobjohnson256@email.com,555-3396,Social Media,Lost,16538,2024-10-22
+285,Michael Brown,michaelbrown643@email.com,555-7786,Referral,New,13700,2024-12-21
+286,Sarah Davis,invalid-email,555-8996,Walk-in,New,15522,2024-07-02
+287,Jane Doe,janedoe815@email.com,555-9756,Referral,Lost,9299,2024-05-25
+288,Sarah Davis,sarahdavis561@email.com,555-3139,Cold Call,New,,2024-01-09
+289,Jane Doe,invalid-email,555-3588,Referral,Contacted,4822,2024-03-22
+290,Michael Brown,michaelbrown96@email.com,555-6905,Referral,Contacted,,2024-12-24
+291,Alice Williams,invalid-email,555-2494,Walk-in,Contacted,,2024-08-15
+292,John Smith,johnsmith9@email.com,555-6629,Cold Call,Contacted,,2024-02-15
+293,Jane Doe,janedoe106@email.com,555-6133,Email Campaign,Contacted,,2024-01-05
+294,Linda Thomas,lindathomas666@email.com,555-3688,Cold Call,Contacted,13990,2024-04-21
+295,Jane Doe,janedoe919@email.com,555-2646,Referral,Converted,14570,2024-03-12
+296,Alice Williams,alicewilliams284@email.com,555-2380,Walk-in,Converted,1378,2024-06-03
+297,Alice Williams,alicewilliams531@email.com,555-9348,Social Media,Contacted,,2024-09-12
+298,Linda Thomas,invalid-email,555-9655,Cold Call,Converted,4824,2024-10-18
+299,David Wilson,davidwilson375@email.com,555-9951,Website,New,1046,2024-05-14
+300,Alice Williams,alicewilliams41@email.com,555-1990,Walk-in,Lost,14379,2024-07-24
+301,Jane Doe,janedoe656@email.com,,Social Media,New,17254,2024-10-01
+302,Sarah Davis,sarahdavis401@email.com,555-2083,Cold Call,Contacted,,2024-02-29
+303,Emily Taylor,emilytaylor627@email.com,555-1901,Walk-in,New,915,2024-01-06
+304,Bob Johnson,bobjohnson509@email.com,555-6680,Referral,Contacted,,2024-03-01
+305,John Smith,johnsmith344@email.com,555-8034,Referral,New,,2024-01-29
+306,Emily Taylor,emilytaylor880@email.com,,Website,New,7984,2024-01-23
+307,John Smith,johnsmith251@email.com,555-1753,Walk-in,New,18616,2024-12-01
+308,David Wilson,davidwilson230@email.com,555-6272,Email Campaign,New,,2024-12-10
+309,John Smith,johnsmith184@email.com,555-4656,Referral,New,15740,2024-06-16
+310,Jane Doe,,555-8483,Cold Call,Converted,8448,2024-07-07
+311,Linda Thomas,lindathomas996@email.com,555-9083,Cold Call,Contacted,,2024-01-13
+312,Alice Williams,alicewilliams555@email.com,,Walk-in,Converted,547,2024-07-11
+313,Michael Brown,michaelbrown107@email.com,555-4361,Website,New,5165,2024-01-23
+314,Alice Williams,alicewilliams919@email.com,555-9515,Social Media,New,,2024-11-22
+315,David Wilson,davidwilson77@email.com,555-2020,Cold Call,Converted,10822,2024-12-24
+316,Sarah Davis,sarahdavis326@email.com,555-8417,Cold Call,New,,2024-08-26
+317,Sarah Davis,sarahdavis417@email.com,555-2978,Referral,Converted,15682,2024-03-02
+318,Jane Doe,janedoe162@email.com,,Website,Converted,5360,2024-12-30
+319,Alice Williams,alicewilliams992@email.com,555-6828,Cold Call,Contacted,1518,2024-10-11
+320,Chris Anderson,chrisanderson256@email.com,555-2551,Social Media,New,2520,2024-03-07
+321,Alice Williams,alicewilliams844@email.com,555-7563,Website,Converted,2957,2024-02-03
+322,Alice Williams,alicewilliams925@email.com,555-8265,Website,Converted,4514,2024-08-24
+323,John Smith,johnsmith173@email.com,,Referral,Lost,6162,2024-04-19
+324,Bob Johnson,bobjohnson282@email.com,555-5585,Email Campaign,Contacted,,2024-09-02
+325,John Smith,johnsmith90@email.com,555-5583,Cold Call,Contacted,18314,2024-12-31
+326,Sarah Davis,sarahdavis492@email.com,555-9921,Referral,Converted,13226,2024-04-02
+327,John Smith,,555-4588,Cold Call,Converted,2419,2024-09-28
+328,Sarah Davis,sarahdavis786@email.com,555-4813,Walk-in,Converted,17987,2024-01-29
+329,Alice Williams,alicewilliams590@email.com,555-7363,Walk-in,Contacted,8251,2024-12-23
+330,Sarah Davis,sarahdavis936@email.com,555-1462,Cold Call,Contacted,18951,2024-10-04
+331,Michael Brown,,,Website,Contacted,1153,2024-06-18
+332,Linda Thomas,lindathomas207@email.com,555-3137,Website,Converted,2451,2024-03-16
+333,Linda Thomas,lindathomas722@email.com,555-3320,Walk-in,New,12741,2024-07-21
+334,Linda Thomas,lindathomas104@email.com,555-6514,Walk-in,Lost,16464,2024-06-11
+335,Bob Johnson,bobjohnson725@email.com,555-6846,Social Media,Converted,10150,2024-03-31
+336,John Smith,johnsmith972@email.com,555-7415,Email Campaign,Contacted,10927,2024-04-23
+337,Linda Thomas,lindathomas107@email.com,555-9129,Walk-in,Converted,6001,2024-02-15
+338,Sarah Davis,sarahdavis458@email.com,,Walk-in,Converted,4040,2024-01-01
+339,John Smith,johnsmith396@email.com,555-8179,Referral,Lost,12909,2024-10-06
+340,David Wilson,davidwilson104@email.com,555-8855,Website,Contacted,,2024-05-30
+341,John Smith,johnsmith327@email.com,555-5278,Walk-in,Lost,5772,2024-02-08
+342,Chris Anderson,chrisanderson965@email.com,555-2525,Social Media,New,14633,2024-11-06
+343,David Wilson,davidwilson161@email.com,555-1877,Referral,Converted,9724,2024-05-01
+344,Jane Doe,janedoe51@email.com,555-7437,Cold Call,Converted,625,2024-02-14
+345,Michael Brown,invalid-email,555-8869,Cold Call,Converted,3184,2024-02-29
+346,Michael Brown,michaelbrown804@email.com,555-7512,Referral,Lost,6558,2024-07-14
+347,Sarah Davis,,555-8303,Referral,Converted,7913,2024-10-15
+348,John Smith,johnsmith155@email.com,555-2584,Cold Call,Contacted,,2024-09-24
+349,David Wilson,davidwilson989@email.com,555-9773,Cold Call,Contacted,,2024-12-31
+350,John Smith,johnsmith515@email.com,555-9467,Social Media,New,,2024-04-18
+351,Alice Williams,alicewilliams130@email.com,555-1699,Walk-in,Contacted,,2024-02-04
+352,Jane Doe,janedoe398@email.com,555-7510,Cold Call,New,19753,2024-02-27
+353,David Wilson,davidwilson154@email.com,555-3428,Website,New,3961,2024-05-26
+354,Chris Anderson,chrisanderson902@email.com,555-6633,Social Media,Lost,1727,2024-05-21
+355,David Wilson,,555-7581,Website,Converted,8284,2024-08-31
+356,Michael Brown,,555-7102,Referral,Converted,10689,2024-09-08
+357,Jane Doe,janedoe996@email.com,555-4734,Walk-in,Converted,9328,2024-08-01
+358,Linda Thomas,lindathomas662@email.com,555-2462,Referral,Lost,17424,2024-01-29
+359,Chris Anderson,,555-3604,Email Campaign,Lost,4944,2024-10-18
+360,John Smith,johnsmith178@email.com,,Referral,New,,2024-12-26
+361,Alice Williams,alicewilliams281@email.com,555-7035,Cold Call,New,,2024-10-31
+362,Emily Taylor,emilytaylor182@email.com,555-8775,Referral,Converted,3461,2024-01-15
+363,David Wilson,davidwilson51@email.com,555-3669,Referral,Contacted,7876,2024-11-29
+364,David Wilson,davidwilson526@email.com,555-1328,Walk-in,Lost,4835,2024-03-29
+365,Linda Thomas,lindathomas821@email.com,555-1138,Cold Call,Converted,14387,2024-06-27
+366,Emily Taylor,emilytaylor259@email.com,555-4575,Website,Lost,19652,2024-01-04
+367,Chris Anderson,chrisanderson679@email.com,555-7131,Referral,New,,2024-11-23
+368,Sarah Davis,sarahdavis883@email.com,555-5536,Social Media,Converted,6672,2024-09-21
